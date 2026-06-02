@@ -1,35 +1,44 @@
 # README - SYNCPAGO
 
-## Nombre del Proyecto
+## ⭐ Nombre del Proyecto
+
+**SYNCPAGO**
 
 ---
 
-## Descripción
+## 📝 Descripción
 
-SYNCPAGO es una plataforma web diseñada para ayudar a los usuarios a gestionar y organizar el pago de sus servicios y obligaciones financieras. El sistema permite registrar recibos manualmente, visualizar fechas de vencimiento, recibir recordatorios automáticos y consultar el historial de pagos, reduciendo así el riesgo de olvidos, recargos o sanciones por pagos atrasados.
-
----
-
-## Problemática
-
-Muchas personas olvidan las fechas de vencimiento de servicios como agua, energía, internet, arriendo, televisión o suscripciones digitales. Esto genera pagos tardíos, intereses adicionales y dificultades en la organización financiera personal.
-
-Actualmente, la mayoría de usuarios gestionan esta información mediante notas físicas, agendas o aplicaciones genéricas que no están enfocadas específicamente en la administración de recibos y pagos recurrentes.
-
-SYNCPAGO busca centralizar esta información en una sola plataforma que permita visualizar, organizar y recordar oportunamente las obligaciones de pago.
+SYNCPAGO es una plataforma web propuesta para la gestión integral de pagos de servicios y obligaciones financieras. La solución busca centralizar recibos, fechas de vencimiento y recordatorios automáticos para reducir olvidos, cargos por mora y complicaciones en el control de pagos.
 
 ---
 
-## Objetivo General
+## 🚩 Problemática
+
+Muchas personas pierden el control de pagos recurrentes como:
+
+- Agua
+- Energía
+- Internet
+- Arriendo
+- Televisión
+- Suscripciones digitales
+
+El seguimiento mediante notas físicas, agendas o aplicaciones generales suele ser ineficiente y aumenta el riesgo de retrasos, intereses adicionales y desorganización financiera.
+
+SYNCPAGO propone consolidar esta información en una única plataforma que facilite la visualización, organización y el recordatorio oportuno de las obligaciones de pago.
+
+---
+
+## 🎯 Objetivo General
 
 Desarrollar una plataforma web que permita gestionar recibos y pagos de servicios mediante recordatorios automáticos, calendarios y herramientas de organización financiera personal.
 
 ---
 
-## Objetivos Específicos
+## 🎯 Objetivos Específicos
 
 - Registrar y administrar recibos de servicios.
-- Mostrar fechas de vencimiento de manera organizada.
+- Mostrar fechas de vencimiento de manera clara y ordenada.
 - Generar recordatorios automáticos antes del vencimiento.
 - Enviar notificaciones mediante WhatsApp.
 - Sincronizar eventos con Google Calendar.
@@ -38,9 +47,9 @@ Desarrollar una plataforma web que permita gestionar recibos y pagos de servicio
 
 ---
 
-## Alcance
+## 🚀 Alcance
 
-### Versión inicial del sistema
+### 🧩 Funcionalidades previstas en la primera versión
 
 - Registro de usuarios.
 - Inicio de sesión.
@@ -52,22 +61,24 @@ Desarrollar una plataforma web que permita gestionar recibos y pagos de servicio
 - Notificaciones por WhatsApp.
 - Sincronización con Google Calendar.
 
-### Posibles mejoras futuras
+### 🌟 Funcionalidades futuras
 
 - Escaneo automático de recibos.
 - Reconocimiento de texto mediante OCR.
 - Reportes avanzados de gastos.
+- Aplicación móvil nativa.
 
 ---
 
-## Usuarios del Sistema
+## 👥 Usuarios del Sistema
 
-### Usuario
-Persona encargada de registrar, consultar y administrar sus recibos y pagos.
+### Cliente
+
+Persona encargada de registrar, consultar y administrar sus recibos y pagos recurrentes.
 
 ---
 
-## Funcionalidades Principales
+## 🧭 Funcionalidades Principales
 
 - Registro de usuarios.
 - Inicio de sesión seguro.
@@ -86,7 +97,7 @@ Persona encargada de registrar, consultar y administrar sus recibos y pagos.
 
 ---
 
-## Tecnologías Sugeridas
+## 🛠️ Tecnologías Sugeridas
 
 ### Frontend
 
@@ -117,27 +128,27 @@ Persona encargada de registrar, consultar y administrar sus recibos y pagos.
 
 ---
 
-## Arquitectura General
+## 🏗️ Arquitectura General
 
 ### Frontend
 
-Encargado de la interacción con el usuario mediante formularios, paneles, calendarios y notificaciones visuales.
+Responsable de la interacción con el usuario mediante formularios, paneles, calendarios y notificaciones visuales.
 
 ### Backend
 
-Procesa la lógica del negocio, validación de datos, autenticación y gestión de recordatorios.
+Procesa la lógica de negocio, valida datos, maneja autenticación y gestiona recordatorios.
 
 ### Base de Datos
 
 Almacena información de usuarios, recibos, categorías, estados de pago y notificaciones.
 
-### Servicios Externos
+### Integraciones externas
 
-Gestionan el envío de mensajes y la sincronización de eventos.
+Gestiona el envío de mensajes y la sincronización de eventos con servicios externos.
 
 ---
 
-## Requisitos Funcionales
+## ✅ Requisitos Funcionales
 
 1. Registro de usuarios.
 2. Inicio de sesión seguro.
@@ -145,7 +156,7 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 4. Registro manual de recibos.
 5. Edición de recibos.
 6. Eliminación de recibos.
-7. Historial de pagos.
+7. Consulta de historial de pagos.
 8. Gestión de estados de pago.
 9. Recordatorios automáticos.
 10. Notificaciones por WhatsApp.
@@ -160,22 +171,22 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 
 ---
 
-## Requisitos No Funcionales
+## ⚙️ Requisitos No Funcionales
 
-### Seguridad
+### 🔒 Seguridad
 
 - Cifrado de contraseñas.
 - Protección de sesiones.
 - Restricción de accesos no autorizados.
 - Protección de datos personales.
 
-### Rendimiento
+### ⚡ Rendimiento
 
 - Tiempo de respuesta menor a 3 segundos.
 - Soporte para múltiples usuarios simultáneos.
 - Optimización de consultas.
 
-### Compatibilidad
+### 🌍 Compatibilidad
 
 - Google Chrome.
 - Microsoft Edge.
@@ -184,19 +195,19 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 - Tablets.
 - Celulares.
 
-### Disponibilidad
+### 🛡️ Disponibilidad
 
 - Servicio disponible 24/7.
 - Copias de seguridad automáticas.
 - Recuperación ante fallos.
 
-### Escalabilidad
+### 📈 Escalabilidad
 
 - Crecimiento de usuarios.
 - Integración de nuevas funcionalidades.
 - Integración con servicios externos.
 
-### Mantenibilidad
+### 🧩 Mantenibilidad
 
 - Código documentado.
 - Arquitectura modular.
@@ -204,9 +215,9 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 
 ---
 
-## Requisitos de la Interfaz Externa
+## 🌐 Requisitos de la Interfaz Externa
 
-### Interfaz de Usuario
+### 🖥️ Interfaz de Usuario
 
 - Interfaz intuitiva.
 - Dashboard visual.
@@ -215,21 +226,21 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 - Notificaciones visibles.
 - Diseño responsive.
 
-### Interfaz de Hardware
+### 🧩 Interfaz de Hardware
 
 - Compatibilidad con computadores.
 - Compatibilidad con tablets.
 - Compatibilidad con teléfonos móviles.
 - Soporte para pantallas táctiles.
 
-### Interfaz de Software
+### 💻 Interfaz de Software
 
 - Compatibilidad con navegadores modernos.
 - Integración con Google Calendar.
 - Integración con WhatsApp.
 - Base de datos PostgreSQL.
 
-### Interfaz de Comunicación
+### 🔐 Interfaz de Comunicación
 
 - Comunicación segura mediante HTTPS.
 - Notificaciones automáticas.
@@ -238,7 +249,7 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 
 ---
 
-## Beneficios Esperados
+## 💡 Beneficios Esperados
 
 - Reducción de pagos atrasados.
 - Mejor organización financiera.
@@ -249,8 +260,8 @@ Gestionan el envío de mensajes y la sincronización de eventos.
 
 ---
 
-## Equipo de Desarrollo
+## 👨‍💻 Equipo de Desarrollo
 
-● Sofia Martin Torres — Líder, Backend , Analista
-● Mariana Castellanos Parra — Frontend, Analista
-● Jose Luis Castillo Cañas — Base de Datos, Analista
+- Sofía Martin Torres — Líder, Backend, Analista
+- Mariana Castellanos Parra — Frontend, Analista
+- José Luis Castillo Cañas — Base de Datos, Analista
