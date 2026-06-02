@@ -70,14 +70,6 @@ Desarrollar una plataforma web que permita gestionar recibos y pagos de servicio
 
 ---
 
-## 👥 Usuarios del Sistema
-
-### Cliente
-
-Persona encargada de registrar, consultar y administrar sus recibos y pagos recurrentes.
-
----
-
 ## 🧭 Funcionalidades Principales
 
 - Registro de usuarios.
