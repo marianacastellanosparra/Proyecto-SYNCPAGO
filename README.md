@@ -65,8 +65,6 @@ Desarrollar una plataforma web que permita gestionar recibos y pagos de servicio
 
 - Escaneo automático de recibos.
 - Reconocimiento de texto mediante OCR.
-- Reportes avanzados de gastos.
-- Aplicación móvil nativa.
 
 ---
 
