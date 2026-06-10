@@ -364,5 +364,5 @@ Gestiona el envío de mensajes y la sincronización de eventos con servicios ext
 ## 👨‍💻 Equipo de Desarrollo
 
 - Sofía Martin Torres — Líder, Backend, Analista
-- Mariana Castellanos Parra — Frontend, Analista
+- Mariana Castellanos Parra — Frontend, Analista, Base de Datos
 - José Luis Castillo Cañas — Base de Datos, Analista, Frontend
