@@ -365,4 +365,4 @@ Gestiona el envío de mensajes y la sincronización de eventos con servicios ext
 
 - Sofía Martin Torres — Líder, Backend, Analista
 - Mariana Castellanos Parra — Frontend, Analista
-- José Luis Castillo Cañas — Base de Datos, Analista
+- José Luis Castillo Cañas — Base de Datos, Analista, Frontend
